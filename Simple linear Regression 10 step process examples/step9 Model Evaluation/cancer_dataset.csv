@@ -1,0 +1,1001 @@
+Age,Tumor Size (mm),Lymph Node Status,Hormone Receptor Status,HER2 Status,Treatment,Cancer Type
+68,37,7,0,0,Radiation,Lung
+58,57,28,0,1,Radiation,Lung
+44,26,22,1,0,Surgery,Lung
+72,25,20,0,1,Surgery,Colorectal
+37,74,22,1,0,Surgery,Prostate
+50,74,18,1,1,Chemotherapy,Lung
+68,8,11,1,1,Surgery,Prostate
+48,98,17,1,1,Surgery,Lung
+52,79,5,1,1,Chemotherapy,Lung
+40,66,17,0,0,Chemotherapy,Colorectal
+40,66,18,0,0,Hormone Therapy,Breast
+53,98,21,1,1,Surgery,Colorectal
+65,99,4,1,1,Surgery,Lung
+69,28,23,0,0,Surgery,Lung
+53,59,8,1,0,Hormone Therapy,Breast
+32,13,26,1,0,Surgery,Prostate
+51,7,2,1,0,Hormone Therapy,Prostate
+31,35,27,0,0,Radiation,Lung
+53,44,9,0,0,Hormone Therapy,Prostate
+73,40,18,1,1,Radiation,Lung
+59,28,2,1,0,Surgery,Breast
+67,99,28,0,0,Radiation,Breast
+31,10,28,0,1,Hormone Therapy,Lung
+50,70,21,1,0,Chemotherapy,Breast
+62,88,14,1,0,Radiation,Colorectal
+41,96,0,0,0,Radiation,Colorectal
+51,79,6,0,0,Surgery,Breast
+73,8,11,0,0,Hormone Therapy,Lung
+54,83,16,1,1,Radiation,Lung
+78,10,29,0,0,Radiation,Breast
+56,98,20,1,1,Radiation,Prostate
+71,55,25,0,1,Radiation,Colorectal
+57,66,28,0,0,Chemotherapy,Prostate
+45,61,23,0,1,Hormone Therapy,Lung
+44,70,19,0,0,Surgery,Lung
+76,83,4,1,1,Surgery,Prostate
+73,79,3,1,1,Chemotherapy,Breast
+32,12,27,0,0,Hormone Therapy,Prostate
+66,30,11,1,0,Radiation,Prostate
+36,55,29,0,0,Chemotherapy,Colorectal
+50,49,19,0,0,Hormone Therapy,Colorectal
+38,48,27,0,0,Radiation,Prostate
+68,9,23,0,1,Chemotherapy,Prostate
+47,74,17,1,1,Hormone Therapy,Lung
+33,30,16,0,1,Surgery,Colorectal
+54,72,18,0,1,Surgery,Colorectal
+43,23,8,1,1,Hormone Therapy,Lung
+79,88,3,0,1,Surgery,Breast
+38,24,25,0,1,Hormone Therapy,Colorectal
+55,16,20,0,0,Radiation,Colorectal
+31,51,1,1,0,Hormone Therapy,Breast
+49,5,3,0,1,Radiation,Colorectal
+57,94,1,1,1,Chemotherapy,Colorectal
+76,18,14,0,0,Hormone Therapy,Breast
+36,68,1,0,0,Chemotherapy,Breast
+73,42,3,1,0,Surgery,Prostate
+37,41,5,0,0,Radiation,Lung
+76,15,6,0,1,Hormone Therapy,Lung
+64,81,9,1,0,Chemotherapy,Breast
+43,7,18,1,1,Radiation,Breast
+46,37,18,1,1,Radiation,Colorectal
+65,10,25,1,1,Surgery,Prostate
+79,54,21,1,0,Surgery,Prostate
+69,14,28,0,0,Radiation,Breast
+33,9,11,1,1,Radiation,Colorectal
+31,27,2,0,1,Hormone Therapy,Colorectal
+35,14,12,0,1,Radiation,Lung
+71,48,17,0,0,Hormone Therapy,Lung
+33,6,7,1,1,Radiation,Colorectal
+58,17,20,1,0,Surgery,Lung
+47,44,14,0,1,Hormone Therapy,Breast
+55,6,0,1,1,Chemotherapy,Colorectal
+73,88,2,1,1,Surgery,Lung
+63,69,25,1,0,Hormone Therapy,Prostate
+39,67,7,1,0,Hormone Therapy,Colorectal
+65,77,3,0,1,Chemotherapy,Colorectal
+43,21,15,0,0,Hormone Therapy,Prostate
+60,13,29,1,1,Radiation,Breast
+77,79,22,0,0,Chemotherapy,Prostate
+44,19,9,1,0,Surgery,Colorectal
+37,28,11,1,0,Surgery,Breast
+43,42,13,0,1,Radiation,Lung
+52,39,13,0,0,Surgery,Lung
+69,98,1,0,0,Hormone Therapy,Lung
+50,99,22,1,1,Hormone Therapy,Colorectal
+45,53,4,0,1,Radiation,Prostate
+74,73,4,1,1,Surgery,Breast
+47,66,5,0,1,Surgery,Lung
+76,64,12,0,0,Radiation,Breast
+53,54,8,1,0,Chemotherapy,Colorectal
+55,82,29,1,0,Surgery,Lung
+54,79,21,1,0,Chemotherapy,Colorectal
+74,13,27,1,0,Surgery,Prostate
+70,38,28,1,1,Surgery,Colorectal
+58,80,14,1,0,Surgery,Colorectal
+44,39,13,1,0,Surgery,Prostate
+74,5,23,1,0,Hormone Therapy,Breast
+30,44,6,0,1,Chemotherapy,Prostate
+54,68,24,1,1,Chemotherapy,Prostate
+36,26,19,1,0,Surgery,Colorectal
+38,64,1,0,1,Surgery,Breast
+53,68,6,1,1,Chemotherapy,Lung
+30,97,5,0,1,Hormone Therapy,Prostate
+73,76,16,0,1,Radiation,Breast
+37,15,26,1,1,Radiation,Prostate
+53,18,24,0,1,Chemotherapy,Prostate
+40,64,24,1,1,Surgery,Prostate
+46,34,27,0,0,Surgery,Prostate
+37,39,1,0,0,Hormone Therapy,Colorectal
+64,89,2,0,1,Radiation,Breast
+64,41,4,1,0,Hormone Therapy,Breast
+62,9,4,1,0,Radiation,Breast
+34,87,0,0,1,Chemotherapy,Prostate
+71,82,7,0,0,Radiation,Colorectal
+68,30,11,1,1,Hormone Therapy,Prostate
+70,66,23,1,1,Hormone Therapy,Prostate
+57,8,3,0,1,Hormone Therapy,Breast
+36,93,12,0,0,Chemotherapy,Prostate
+38,46,22,1,0,Radiation,Lung
+37,93,14,1,0,Radiation,Prostate
+41,22,10,1,0,Hormone Therapy,Lung
+63,44,9,1,1,Radiation,Prostate
+62,76,2,1,1,Surgery,Colorectal
+77,43,21,0,0,Surgery,Colorectal
+52,18,13,1,1,Surgery,Breast
+53,36,15,0,1,Radiation,Prostate
+66,55,9,1,0,Chemotherapy,Lung
+64,42,28,0,1,Chemotherapy,Lung
+73,27,9,1,0,Chemotherapy,Prostate
+69,67,11,1,1,Chemotherapy,Lung
+51,19,29,0,0,Surgery,Colorectal
+56,29,8,0,1,Surgery,Lung
+64,21,0,1,1,Hormone Therapy,Breast
+30,70,4,1,0,Radiation,Colorectal
+64,82,19,1,0,Radiation,Colorectal
+66,57,7,1,0,Chemotherapy,Colorectal
+76,55,10,1,0,Surgery,Prostate
+43,43,11,0,1,Chemotherapy,Prostate
+32,55,0,0,1,Hormone Therapy,Colorectal
+30,74,24,1,0,Radiation,Prostate
+34,10,21,0,1,Radiation,Lung
+55,71,19,0,0,Chemotherapy,Prostate
+43,11,27,0,0,Hormone Therapy,Prostate
+68,55,24,1,1,Radiation,Colorectal
+56,76,10,0,1,Hormone Therapy,Breast
+38,46,4,1,0,Hormone Therapy,Breast
+44,68,14,0,0,Chemotherapy,Breast
+44,19,4,1,0,Surgery,Lung
+55,33,11,0,1,Chemotherapy,Prostate
+71,37,4,1,1,Surgery,Breast
+42,98,16,1,1,Hormone Therapy,Colorectal
+61,31,16,0,1,Surgery,Breast
+68,40,23,1,0,Hormone Therapy,Breast
+78,33,11,1,0,Radiation,Prostate
+61,42,23,1,0,Radiation,Prostate
+33,61,27,1,0,Radiation,Prostate
+59,31,14,1,0,Chemotherapy,Lung
+66,59,14,1,0,Chemotherapy,Lung
+52,37,5,1,1,Hormone Therapy,Breast
+68,72,11,1,1,Radiation,Prostate
+74,90,26,0,0,Chemotherapy,Breast
+44,70,28,0,0,Radiation,Colorectal
+72,14,19,1,1,Chemotherapy,Colorectal
+58,9,17,1,1,Surgery,Prostate
+65,78,13,0,1,Surgery,Prostate
+42,42,1,0,1,Radiation,Colorectal
+61,17,8,0,0,Hormone Therapy,Prostate
+36,35,4,1,0,Chemotherapy,Lung
+51,51,19,0,0,Chemotherapy,Lung
+57,92,25,1,0,Surgery,Prostate
+31,56,28,1,0,Surgery,Colorectal
+71,60,0,0,1,Hormone Therapy,Breast
+74,19,22,1,0,Hormone Therapy,Prostate
+35,33,2,1,1,Hormone Therapy,Prostate
+57,12,5,1,0,Radiation,Breast
+57,9,4,1,0,Surgery,Prostate
+73,33,20,0,0,Radiation,Breast
+73,51,26,0,0,Surgery,Colorectal
+49,72,4,1,0,Surgery,Lung
+59,80,0,1,1,Chemotherapy,Colorectal
+40,49,16,0,1,Surgery,Lung
+57,6,18,1,1,Surgery,Breast
+54,31,13,0,0,Radiation,Lung
+68,99,11,1,0,Surgery,Colorectal
+62,40,9,1,1,Radiation,Lung
+30,40,19,0,0,Hormone Therapy,Breast
+56,30,20,0,0,Surgery,Lung
+42,47,17,0,1,Surgery,Prostate
+70,31,23,0,0,Radiation,Colorectal
+32,73,26,1,1,Hormone Therapy,Prostate
+68,24,10,0,0,Chemotherapy,Breast
+35,15,29,1,1,Hormone Therapy,Lung
+37,78,1,0,0,Radiation,Prostate
+56,42,24,0,0,Hormone Therapy,Prostate
+38,10,17,1,1,Radiation,Lung
+66,76,28,0,0,Radiation,Lung
+62,27,24,0,0,Chemotherapy,Colorectal
+71,51,6,0,1,Surgery,Prostate
+73,94,23,0,0,Radiation,Prostate
+53,50,14,1,1,Radiation,Breast
+44,16,10,1,0,Chemotherapy,Colorectal
+61,94,17,0,0,Radiation,Breast
+61,17,22,0,0,Surgery,Prostate
+53,66,11,0,0,Chemotherapy,Breast
+70,86,5,1,1,Surgery,Prostate
+78,93,19,1,0,Surgery,Prostate
+78,64,22,1,1,Chemotherapy,Breast
+41,47,29,1,0,Radiation,Breast
+68,80,12,0,0,Surgery,Lung
+31,72,19,0,0,Surgery,Lung
+32,9,15,0,0,Surgery,Lung
+78,41,17,1,1,Surgery,Prostate
+66,76,9,0,1,Chemotherapy,Breast
+78,96,27,1,1,Chemotherapy,Colorectal
+46,35,22,1,1,Hormone Therapy,Prostate
+78,13,7,0,0,Hormone Therapy,Colorectal
+31,55,17,0,1,Surgery,Breast
+31,33,20,0,1,Radiation,Prostate
+57,82,0,1,0,Surgery,Colorectal
+52,44,22,1,0,Radiation,Colorectal
+66,45,7,0,0,Surgery,Lung
+61,90,28,0,0,Hormone Therapy,Lung
+62,15,5,1,1,Hormone Therapy,Lung
+30,27,4,0,1,Radiation,Prostate
+48,5,14,1,0,Surgery,Breast
+31,50,21,1,0,Radiation,Breast
+73,25,14,0,0,Hormone Therapy,Lung
+55,94,1,0,1,Surgery,Lung
+61,40,0,0,1,Surgery,Lung
+35,58,22,0,0,Radiation,Colorectal
+61,91,22,1,0,Chemotherapy,Lung
+33,61,25,1,1,Radiation,Colorectal
+40,5,10,1,0,Hormone Therapy,Breast
+46,67,9,0,0,Hormone Therapy,Prostate
+67,58,29,1,1,Hormone Therapy,Prostate
+53,59,17,0,0,Hormone Therapy,Prostate
+34,44,17,0,1,Hormone Therapy,Prostate
+63,19,16,0,0,Chemotherapy,Colorectal
+35,25,25,0,0,Surgery,Colorectal
+51,51,7,0,1,Radiation,Lung
+40,77,14,0,1,Radiation,Colorectal
+77,57,7,1,0,Hormone Therapy,Lung
+45,13,16,0,1,Radiation,Lung
+62,78,11,1,0,Hormone Therapy,Prostate
+38,56,26,1,0,Chemotherapy,Colorectal
+35,61,7,0,1,Chemotherapy,Colorectal
+45,30,24,0,0,Surgery,Lung
+58,45,13,0,0,Chemotherapy,Lung
+32,39,3,1,1,Chemotherapy,Breast
+49,67,0,0,1,Surgery,Breast
+65,29,0,1,0,Radiation,Lung
+48,94,18,0,1,Hormone Therapy,Breast
+55,79,15,0,1,Hormone Therapy,Breast
+32,42,13,1,1,Radiation,Lung
+48,6,20,1,1,Surgery,Lung
+49,11,15,0,0,Radiation,Colorectal
+61,86,4,1,0,Chemotherapy,Lung
+36,95,8,1,0,Surgery,Lung
+70,38,25,1,1,Surgery,Prostate
+62,95,29,1,1,Surgery,Colorectal
+69,21,27,1,1,Hormone Therapy,Colorectal
+68,47,1,0,1,Radiation,Colorectal
+47,63,17,0,1,Surgery,Prostate
+69,55,5,1,1,Surgery,Lung
+30,58,8,0,1,Surgery,Colorectal
+40,28,0,0,0,Radiation,Colorectal
+57,29,8,1,0,Hormone Therapy,Breast
+54,75,24,0,1,Chemotherapy,Colorectal
+79,56,15,1,1,Hormone Therapy,Lung
+52,74,12,1,1,Surgery,Lung
+60,92,8,0,0,Hormone Therapy,Breast
+59,37,20,1,0,Hormone Therapy,Colorectal
+71,53,12,1,1,Chemotherapy,Colorectal
+64,33,8,1,1,Radiation,Colorectal
+36,67,10,1,0,Radiation,Prostate
+45,26,3,1,0,Hormone Therapy,Colorectal
+55,30,1,0,0,Hormone Therapy,Lung
+77,32,28,0,0,Radiation,Lung
+78,89,5,1,1,Radiation,Prostate
+31,53,13,1,0,Chemotherapy,Prostate
+30,75,3,0,0,Surgery,Colorectal
+77,85,5,1,1,Hormone Therapy,Breast
+41,88,18,0,0,Radiation,Prostate
+34,53,5,1,0,Hormone Therapy,Prostate
+66,24,1,1,0,Hormone Therapy,Colorectal
+61,90,17,1,1,Radiation,Colorectal
+38,96,12,1,0,Chemotherapy,Prostate
+70,67,8,1,1,Hormone Therapy,Breast
+64,65,22,1,1,Chemotherapy,Prostate
+48,53,18,1,0,Radiation,Colorectal
+77,75,12,0,0,Surgery,Colorectal
+45,5,10,0,0,Surgery,Prostate
+32,17,0,0,0,Hormone Therapy,Breast
+49,98,23,1,1,Radiation,Prostate
+53,91,29,1,0,Chemotherapy,Prostate
+62,55,21,1,0,Hormone Therapy,Colorectal
+53,60,6,1,0,Radiation,Breast
+40,87,24,1,1,Radiation,Lung
+78,66,20,1,0,Chemotherapy,Breast
+37,36,14,1,0,Hormone Therapy,Prostate
+65,34,0,0,1,Radiation,Prostate
+67,33,11,1,1,Radiation,Prostate
+69,53,25,0,0,Radiation,Breast
+49,49,6,0,0,Chemotherapy,Colorectal
+64,97,14,1,0,Hormone Therapy,Prostate
+77,34,20,1,0,Hormone Therapy,Prostate
+54,20,18,0,0,Hormone Therapy,Breast
+64,44,27,0,1,Hormone Therapy,Lung
+54,23,28,1,1,Surgery,Lung
+58,22,24,1,0,Surgery,Colorectal
+47,5,0,0,0,Hormone Therapy,Colorectal
+75,82,16,1,1,Chemotherapy,Prostate
+47,51,16,1,0,Surgery,Breast
+31,70,2,1,0,Radiation,Prostate
+64,96,11,0,0,Surgery,Colorectal
+45,98,5,0,0,Radiation,Breast
+70,42,25,0,0,Hormone Therapy,Breast
+65,55,10,1,1,Surgery,Colorectal
+62,67,2,1,0,Chemotherapy,Lung
+33,8,7,0,0,Surgery,Lung
+62,5,13,0,0,Surgery,Breast
+43,12,13,0,1,Surgery,Prostate
+50,33,9,1,1,Hormone Therapy,Lung
+77,59,1,0,1,Chemotherapy,Prostate
+49,7,13,0,1,Surgery,Lung
+37,36,8,1,0,Chemotherapy,Lung
+36,14,2,1,1,Hormone Therapy,Prostate
+32,78,20,1,0,Radiation,Colorectal
+46,87,25,0,0,Surgery,Lung
+62,38,7,1,1,Chemotherapy,Lung
+77,91,15,1,1,Chemotherapy,Prostate
+41,59,1,0,1,Hormone Therapy,Colorectal
+51,96,5,1,1,Surgery,Lung
+51,36,27,0,1,Radiation,Lung
+75,54,20,0,0,Chemotherapy,Colorectal
+59,11,28,1,1,Surgery,Lung
+67,97,25,1,1,Radiation,Colorectal
+67,12,24,1,1,Chemotherapy,Colorectal
+74,69,11,1,0,Chemotherapy,Prostate
+37,61,4,1,1,Radiation,Breast
+56,71,1,1,0,Radiation,Colorectal
+56,92,15,0,1,Hormone Therapy,Prostate
+63,91,4,0,1,Surgery,Breast
+50,63,14,1,0,Surgery,Lung
+59,76,11,0,1,Hormone Therapy,Breast
+62,58,3,1,0,Chemotherapy,Colorectal
+57,71,14,0,0,Radiation,Colorectal
+76,55,10,0,0,Radiation,Colorectal
+62,96,15,0,1,Radiation,Colorectal
+34,12,22,1,1,Chemotherapy,Colorectal
+77,38,5,0,1,Radiation,Prostate
+48,39,13,1,0,Radiation,Colorectal
+33,92,17,0,1,Hormone Therapy,Prostate
+64,82,11,0,0,Chemotherapy,Lung
+78,36,26,0,1,Surgery,Colorectal
+46,50,10,0,0,Hormone Therapy,Colorectal
+73,20,12,0,0,Hormone Therapy,Breast
+57,72,20,1,0,Surgery,Lung
+59,41,22,1,1,Hormone Therapy,Colorectal
+58,58,10,0,0,Chemotherapy,Colorectal
+75,89,22,0,0,Radiation,Lung
+35,18,15,0,0,Chemotherapy,Prostate
+64,99,14,0,0,Surgery,Colorectal
+70,59,20,1,0,Surgery,Breast
+66,52,27,0,0,Hormone Therapy,Colorectal
+53,86,14,1,1,Chemotherapy,Breast
+58,11,24,0,1,Chemotherapy,Breast
+78,78,3,1,0,Surgery,Colorectal
+75,11,10,0,1,Chemotherapy,Colorectal
+60,37,18,0,1,Surgery,Breast
+64,27,14,1,0,Chemotherapy,Lung
+62,89,3,0,0,Chemotherapy,Lung
+50,23,20,0,0,Chemotherapy,Colorectal
+61,23,12,0,1,Surgery,Prostate
+52,40,21,1,0,Hormone Therapy,Lung
+62,33,18,0,1,Chemotherapy,Colorectal
+32,64,1,0,0,Surgery,Lung
+47,86,13,1,1,Surgery,Prostate
+54,6,28,1,0,Chemotherapy,Colorectal
+71,5,3,1,0,Chemotherapy,Prostate
+60,51,15,0,1,Hormone Therapy,Colorectal
+32,73,20,0,1,Surgery,Prostate
+69,24,19,0,1,Surgery,Lung
+75,15,13,1,1,Radiation,Lung
+53,6,26,0,1,Surgery,Prostate
+79,71,28,0,1,Hormone Therapy,Prostate
+61,91,14,1,0,Radiation,Prostate
+76,16,27,1,1,Radiation,Colorectal
+51,24,2,1,0,Radiation,Lung
+52,9,7,1,0,Chemotherapy,Colorectal
+31,41,15,1,1,Chemotherapy,Lung
+56,42,9,0,0,Surgery,Breast
+71,98,3,1,1,Radiation,Colorectal
+31,13,29,0,1,Hormone Therapy,Lung
+55,57,17,0,0,Chemotherapy,Lung
+46,48,1,1,0,Hormone Therapy,Colorectal
+69,90,16,1,1,Hormone Therapy,Colorectal
+62,28,12,1,1,Chemotherapy,Lung
+38,85,3,0,0,Chemotherapy,Colorectal
+72,78,25,1,0,Chemotherapy,Prostate
+77,34,24,1,0,Chemotherapy,Colorectal
+68,63,29,1,0,Radiation,Colorectal
+58,91,10,1,1,Radiation,Colorectal
+71,85,6,1,1,Radiation,Lung
+55,85,11,0,1,Radiation,Prostate
+64,18,9,0,1,Surgery,Breast
+79,13,6,0,0,Radiation,Breast
+54,44,12,1,0,Chemotherapy,Prostate
+53,70,6,1,1,Hormone Therapy,Prostate
+42,29,23,1,1,Radiation,Prostate
+36,77,16,0,1,Surgery,Lung
+65,26,9,1,1,Chemotherapy,Breast
+74,8,28,1,1,Hormone Therapy,Prostate
+49,30,9,1,1,Hormone Therapy,Lung
+30,62,23,0,1,Radiation,Breast
+37,33,3,1,1,Hormone Therapy,Colorectal
+75,91,19,0,1,Radiation,Lung
+45,41,3,1,0,Radiation,Breast
+43,79,21,0,1,Chemotherapy,Lung
+41,74,6,0,0,Chemotherapy,Breast
+52,22,21,0,0,Surgery,Breast
+44,89,0,1,1,Chemotherapy,Colorectal
+57,46,11,1,1,Chemotherapy,Lung
+63,45,23,0,0,Radiation,Prostate
+31,42,12,0,0,Chemotherapy,Colorectal
+61,38,9,1,1,Radiation,Colorectal
+52,21,14,1,0,Radiation,Breast
+51,41,26,0,1,Chemotherapy,Prostate
+54,29,12,1,1,Surgery,Lung
+51,80,22,1,1,Surgery,Prostate
+51,91,21,1,0,Hormone Therapy,Prostate
+78,90,21,1,0,Hormone Therapy,Prostate
+71,89,20,0,1,Chemotherapy,Prostate
+35,31,21,1,0,Surgery,Prostate
+44,61,27,1,0,Radiation,Breast
+72,35,8,0,0,Hormone Therapy,Breast
+66,10,25,0,0,Radiation,Colorectal
+62,95,8,1,0,Hormone Therapy,Breast
+37,44,14,1,0,Chemotherapy,Colorectal
+73,16,9,1,0,Surgery,Colorectal
+73,57,23,1,1,Hormone Therapy,Lung
+34,75,25,0,0,Surgery,Prostate
+68,14,24,0,0,Radiation,Breast
+33,49,28,0,0,Chemotherapy,Lung
+35,21,9,1,0,Surgery,Breast
+74,30,7,1,0,Chemotherapy,Colorectal
+61,89,23,1,0,Surgery,Breast
+59,96,15,1,0,Radiation,Prostate
+76,66,16,0,0,Radiation,Colorectal
+64,50,25,0,1,Chemotherapy,Colorectal
+69,68,26,1,0,Radiation,Lung
+45,6,4,0,0,Hormone Therapy,Prostate
+42,58,3,1,0,Surgery,Colorectal
+79,69,17,1,0,Radiation,Prostate
+71,55,23,0,1,Hormone Therapy,Breast
+59,57,18,1,1,Chemotherapy,Prostate
+48,40,3,1,1,Hormone Therapy,Colorectal
+46,30,27,0,1,Chemotherapy,Lung
+48,33,6,1,1,Chemotherapy,Colorectal
+57,25,9,1,1,Surgery,Prostate
+55,15,24,0,1,Surgery,Prostate
+66,44,17,1,1,Hormone Therapy,Colorectal
+55,15,18,0,1,Surgery,Prostate
+52,40,3,1,1,Surgery,Breast
+38,63,9,0,1,Surgery,Colorectal
+41,43,0,0,1,Hormone Therapy,Lung
+30,58,22,0,1,Radiation,Colorectal
+30,59,17,1,1,Surgery,Breast
+76,28,4,0,1,Surgery,Breast
+63,26,14,0,1,Hormone Therapy,Breast
+61,73,16,0,0,Radiation,Breast
+77,60,2,0,1,Surgery,Breast
+54,37,11,0,0,Chemotherapy,Lung
+69,40,1,1,1,Hormone Therapy,Prostate
+74,24,0,1,1,Surgery,Breast
+30,87,22,1,0,Surgery,Breast
+45,85,20,1,1,Chemotherapy,Colorectal
+68,66,16,1,0,Chemotherapy,Lung
+34,77,21,1,0,Hormone Therapy,Lung
+51,30,15,1,0,Hormone Therapy,Prostate
+58,70,4,0,1,Chemotherapy,Lung
+32,77,14,1,1,Hormone Therapy,Colorectal
+41,77,2,0,1,Chemotherapy,Colorectal
+55,44,27,0,0,Surgery,Prostate
+45,21,6,1,0,Chemotherapy,Colorectal
+66,5,10,0,1,Chemotherapy,Breast
+51,93,9,0,1,Radiation,Breast
+58,65,8,0,1,Chemotherapy,Colorectal
+43,47,13,0,1,Chemotherapy,Prostate
+57,46,12,1,1,Radiation,Lung
+34,29,28,1,0,Hormone Therapy,Prostate
+76,43,24,1,0,Radiation,Lung
+78,39,29,1,0,Surgery,Colorectal
+59,7,24,1,1,Radiation,Colorectal
+75,48,1,1,0,Surgery,Breast
+34,55,2,1,0,Hormone Therapy,Lung
+41,98,6,1,0,Radiation,Prostate
+45,16,20,1,0,Radiation,Colorectal
+55,23,17,1,0,Hormone Therapy,Prostate
+55,48,2,0,1,Surgery,Breast
+77,63,9,1,0,Radiation,Lung
+50,53,21,0,1,Surgery,Lung
+68,65,28,0,1,Radiation,Colorectal
+65,21,6,0,1,Chemotherapy,Lung
+62,78,8,0,1,Radiation,Colorectal
+59,61,16,1,1,Hormone Therapy,Breast
+66,59,10,0,0,Hormone Therapy,Lung
+52,51,6,1,0,Surgery,Colorectal
+39,16,23,1,1,Radiation,Prostate
+34,66,27,0,1,Surgery,Colorectal
+65,84,13,1,1,Surgery,Lung
+63,92,18,0,0,Chemotherapy,Breast
+60,87,3,0,1,Chemotherapy,Lung
+39,12,25,1,0,Hormone Therapy,Lung
+48,99,5,1,1,Surgery,Colorectal
+61,25,9,0,0,Hormone Therapy,Prostate
+30,85,6,1,1,Radiation,Lung
+34,91,12,1,0,Surgery,Prostate
+74,84,13,1,1,Surgery,Colorectal
+33,74,3,0,0,Radiation,Prostate
+45,76,7,0,0,Radiation,Colorectal
+53,29,4,1,0,Hormone Therapy,Breast
+45,86,0,1,0,Hormone Therapy,Prostate
+31,93,3,1,0,Radiation,Prostate
+78,16,2,1,0,Hormone Therapy,Breast
+57,19,8,1,0,Radiation,Prostate
+61,63,7,0,1,Surgery,Breast
+56,30,0,1,1,Surgery,Lung
+49,30,26,0,1,Chemotherapy,Colorectal
+53,51,5,1,1,Surgery,Breast
+41,36,8,0,1,Radiation,Prostate
+79,14,6,1,0,Hormone Therapy,Breast
+64,20,3,0,0,Chemotherapy,Prostate
+62,75,12,1,0,Hormone Therapy,Lung
+62,21,16,0,0,Radiation,Breast
+72,27,27,0,0,Surgery,Lung
+66,30,1,0,1,Chemotherapy,Colorectal
+41,89,27,0,1,Radiation,Prostate
+32,90,4,0,1,Chemotherapy,Prostate
+30,11,11,0,1,Chemotherapy,Lung
+62,18,26,1,0,Surgery,Colorectal
+69,83,20,0,0,Radiation,Breast
+39,11,7,1,0,Hormone Therapy,Breast
+72,13,5,1,1,Chemotherapy,Prostate
+73,52,7,1,0,Chemotherapy,Lung
+58,76,17,1,1,Hormone Therapy,Lung
+42,63,2,1,0,Radiation,Breast
+41,91,21,0,0,Chemotherapy,Colorectal
+60,97,11,0,1,Chemotherapy,Colorectal
+75,86,28,0,0,Chemotherapy,Breast
+31,99,25,1,0,Radiation,Breast
+79,98,2,0,1,Radiation,Lung
+64,43,21,0,0,Hormone Therapy,Colorectal
+52,22,5,0,1,Radiation,Breast
+46,63,1,0,0,Radiation,Breast
+55,21,22,0,0,Surgery,Prostate
+37,18,11,1,0,Hormone Therapy,Breast
+58,35,1,0,0,Chemotherapy,Breast
+55,28,5,1,0,Radiation,Colorectal
+39,64,16,1,0,Chemotherapy,Lung
+55,49,2,1,0,Chemotherapy,Colorectal
+63,7,1,1,0,Surgery,Lung
+70,41,22,1,1,Radiation,Prostate
+36,47,29,0,1,Hormone Therapy,Breast
+33,44,19,0,0,Radiation,Prostate
+79,94,7,0,0,Chemotherapy,Lung
+74,59,21,1,1,Hormone Therapy,Colorectal
+40,91,11,0,0,Radiation,Colorectal
+58,43,25,0,0,Chemotherapy,Prostate
+65,19,3,1,1,Chemotherapy,Lung
+54,8,4,1,0,Surgery,Prostate
+50,97,12,1,0,Surgery,Prostate
+65,90,28,1,1,Surgery,Breast
+39,29,14,0,0,Chemotherapy,Prostate
+66,17,24,1,0,Radiation,Breast
+38,86,22,1,1,Surgery,Breast
+53,37,15,0,0,Radiation,Colorectal
+64,20,9,0,1,Surgery,Breast
+78,46,29,1,0,Hormone Therapy,Breast
+64,70,29,0,0,Hormone Therapy,Colorectal
+77,59,24,1,1,Surgery,Prostate
+65,46,22,1,1,Chemotherapy,Lung
+47,38,15,0,0,Surgery,Lung
+78,34,11,0,1,Surgery,Lung
+68,17,16,1,1,Chemotherapy,Prostate
+61,17,15,1,0,Hormone Therapy,Breast
+53,22,11,1,0,Radiation,Lung
+52,36,7,0,0,Surgery,Prostate
+61,43,19,1,1,Chemotherapy,Breast
+66,50,2,1,1,Surgery,Colorectal
+41,33,15,1,1,Chemotherapy,Lung
+78,66,29,1,1,Radiation,Breast
+42,97,12,1,0,Radiation,Lung
+52,66,22,0,1,Hormone Therapy,Lung
+54,61,27,1,0,Chemotherapy,Lung
+64,20,18,1,1,Chemotherapy,Breast
+70,60,7,1,0,Hormone Therapy,Prostate
+59,14,21,1,0,Hormone Therapy,Breast
+46,34,4,0,0,Chemotherapy,Lung
+78,29,19,0,1,Hormone Therapy,Breast
+49,88,7,0,0,Radiation,Colorectal
+77,9,23,1,0,Surgery,Prostate
+54,69,11,1,1,Radiation,Breast
+51,98,0,0,0,Hormone Therapy,Colorectal
+42,53,24,0,1,Chemotherapy,Prostate
+48,7,29,0,1,Chemotherapy,Colorectal
+78,49,20,1,0,Radiation,Prostate
+65,18,19,1,0,Chemotherapy,Breast
+41,34,5,0,1,Hormone Therapy,Colorectal
+70,72,21,0,0,Radiation,Lung
+48,22,17,0,1,Chemotherapy,Colorectal
+41,66,7,1,1,Surgery,Prostate
+38,41,6,1,1,Surgery,Breast
+36,29,0,1,0,Hormone Therapy,Prostate
+57,52,20,0,1,Chemotherapy,Colorectal
+43,69,15,0,0,Hormone Therapy,Colorectal
+60,57,11,1,0,Radiation,Lung
+48,83,5,0,0,Surgery,Breast
+76,77,19,1,0,Radiation,Breast
+45,19,1,0,1,Chemotherapy,Colorectal
+34,53,28,0,0,Hormone Therapy,Breast
+64,92,13,0,1,Hormone Therapy,Lung
+41,72,3,0,1,Hormone Therapy,Prostate
+54,16,0,1,0,Radiation,Breast
+50,63,22,0,1,Surgery,Colorectal
+65,41,17,1,1,Radiation,Prostate
+52,65,12,1,0,Radiation,Prostate
+45,47,1,1,1,Chemotherapy,Lung
+68,74,8,0,1,Chemotherapy,Colorectal
+74,43,20,1,1,Chemotherapy,Breast
+71,60,1,1,1,Surgery,Colorectal
+68,67,26,1,0,Surgery,Prostate
+43,50,24,0,1,Chemotherapy,Colorectal
+60,92,8,0,1,Chemotherapy,Breast
+34,15,0,1,1,Surgery,Breast
+64,66,10,0,1,Hormone Therapy,Lung
+52,81,2,1,0,Surgery,Breast
+58,29,19,1,1,Surgery,Breast
+72,75,29,0,0,Surgery,Colorectal
+40,56,22,1,1,Chemotherapy,Colorectal
+47,8,25,0,0,Hormone Therapy,Prostate
+76,63,3,0,0,Surgery,Lung
+41,76,17,1,0,Chemotherapy,Colorectal
+38,24,22,0,0,Radiation,Breast
+39,97,5,0,0,Radiation,Prostate
+73,67,2,1,1,Surgery,Colorectal
+46,58,21,1,1,Radiation,Lung
+67,78,10,0,1,Hormone Therapy,Lung
+36,61,14,0,0,Radiation,Prostate
+75,94,21,1,1,Radiation,Prostate
+42,45,27,0,0,Hormone Therapy,Prostate
+69,7,4,0,0,Surgery,Prostate
+71,10,19,0,1,Surgery,Prostate
+38,9,9,0,1,Hormone Therapy,Breast
+79,9,11,0,0,Hormone Therapy,Breast
+56,58,14,0,0,Hormone Therapy,Colorectal
+31,51,16,0,1,Radiation,Lung
+34,91,9,1,1,Hormone Therapy,Breast
+58,53,5,1,1,Chemotherapy,Breast
+66,13,17,1,1,Radiation,Breast
+67,24,12,1,0,Surgery,Colorectal
+48,65,2,1,1,Surgery,Prostate
+37,39,29,0,1,Surgery,Colorectal
+77,54,23,0,1,Radiation,Lung
+74,86,9,0,0,Chemotherapy,Lung
+30,66,29,0,0,Hormone Therapy,Lung
+51,21,13,1,0,Hormone Therapy,Lung
+46,92,5,0,0,Surgery,Breast
+36,7,2,0,1,Surgery,Breast
+54,36,15,1,0,Radiation,Colorectal
+74,17,6,0,1,Chemotherapy,Prostate
+33,93,19,0,1,Hormone Therapy,Lung
+65,77,13,1,1,Radiation,Colorectal
+35,72,8,0,1,Hormone Therapy,Breast
+60,18,14,0,0,Surgery,Breast
+48,15,20,0,0,Hormone Therapy,Prostate
+73,60,2,0,0,Chemotherapy,Prostate
+68,71,1,0,1,Chemotherapy,Prostate
+56,96,26,1,1,Surgery,Colorectal
+39,33,1,1,1,Chemotherapy,Breast
+55,13,2,1,1,Chemotherapy,Breast
+48,71,17,1,1,Radiation,Prostate
+68,29,13,1,0,Hormone Therapy,Lung
+32,80,19,1,1,Surgery,Prostate
+74,46,17,0,0,Surgery,Colorectal
+42,13,9,1,1,Surgery,Prostate
+79,83,24,1,1,Surgery,Prostate
+57,44,1,0,0,Surgery,Colorectal
+49,29,24,0,0,Chemotherapy,Prostate
+57,9,28,1,1,Radiation,Breast
+37,15,21,0,1,Surgery,Lung
+70,63,0,1,1,Radiation,Prostate
+68,92,3,0,1,Radiation,Colorectal
+30,83,13,1,0,Chemotherapy,Lung
+32,42,0,0,1,Surgery,Colorectal
+42,76,13,0,0,Chemotherapy,Lung
+57,9,15,1,1,Surgery,Lung
+78,52,21,1,0,Chemotherapy,Prostate
+54,94,13,1,0,Radiation,Breast
+62,22,28,1,1,Surgery,Prostate
+67,74,19,1,0,Hormone Therapy,Colorectal
+35,41,2,0,1,Radiation,Colorectal
+73,64,2,1,0,Hormone Therapy,Lung
+74,52,8,1,1,Radiation,Lung
+61,81,5,0,0,Chemotherapy,Breast
+74,32,24,0,1,Surgery,Prostate
+76,73,12,1,1,Radiation,Colorectal
+50,81,20,0,0,Chemotherapy,Lung
+45,85,1,0,0,Surgery,Breast
+50,44,7,1,0,Surgery,Colorectal
+40,49,20,0,0,Radiation,Lung
+66,66,1,0,1,Surgery,Colorectal
+65,97,3,1,0,Radiation,Breast
+64,62,24,1,1,Surgery,Breast
+48,71,14,0,0,Hormone Therapy,Colorectal
+49,60,3,0,1,Chemotherapy,Prostate
+47,44,12,1,1,Hormone Therapy,Colorectal
+76,44,27,0,1,Radiation,Lung
+70,95,11,0,1,Hormone Therapy,Prostate
+78,81,27,0,0,Radiation,Lung
+43,37,12,1,0,Surgery,Colorectal
+44,10,13,0,1,Surgery,Prostate
+60,92,19,0,0,Radiation,Lung
+30,23,17,1,0,Hormone Therapy,Colorectal
+32,84,28,0,1,Surgery,Colorectal
+45,44,27,0,0,Chemotherapy,Prostate
+52,96,5,1,0,Surgery,Colorectal
+40,63,28,1,0,Chemotherapy,Breast
+41,63,10,1,1,Hormone Therapy,Lung
+39,52,29,1,0,Chemotherapy,Lung
+61,45,1,0,1,Chemotherapy,Colorectal
+45,17,27,0,0,Chemotherapy,Colorectal
+37,49,22,1,0,Chemotherapy,Breast
+67,93,18,1,0,Surgery,Prostate
+41,57,18,0,1,Chemotherapy,Colorectal
+53,46,4,1,1,Surgery,Colorectal
+57,67,18,0,0,Chemotherapy,Colorectal
+37,31,1,1,1,Radiation,Colorectal
+57,42,9,0,0,Hormone Therapy,Lung
+65,64,24,1,1,Chemotherapy,Colorectal
+55,11,1,1,1,Radiation,Lung
+37,9,29,0,0,Chemotherapy,Colorectal
+79,49,10,1,0,Chemotherapy,Prostate
+57,62,17,0,0,Chemotherapy,Breast
+57,35,28,0,0,Radiation,Prostate
+66,27,23,0,1,Hormone Therapy,Colorectal
+70,46,14,0,1,Radiation,Colorectal
+65,14,8,0,1,Hormone Therapy,Colorectal
+56,36,22,1,0,Chemotherapy,Prostate
+46,57,18,1,0,Surgery,Colorectal
+38,34,8,0,1,Chemotherapy,Prostate
+62,43,2,1,0,Hormone Therapy,Lung
+49,35,20,0,1,Radiation,Breast
+42,86,8,1,1,Chemotherapy,Breast
+57,6,27,1,1,Radiation,Prostate
+77,82,29,1,1,Radiation,Lung
+58,81,13,1,1,Radiation,Prostate
+42,97,18,0,0,Chemotherapy,Lung
+75,16,6,0,0,Radiation,Colorectal
+64,43,15,1,0,Radiation,Lung
+35,70,15,1,1,Chemotherapy,Lung
+47,17,27,0,1,Radiation,Lung
+34,50,0,1,1,Chemotherapy,Breast
+76,31,3,0,1,Hormone Therapy,Lung
+54,21,3,0,0,Hormone Therapy,Colorectal
+31,99,6,0,0,Hormone Therapy,Colorectal
+39,64,7,1,1,Radiation,Colorectal
+59,68,16,0,1,Surgery,Lung
+79,92,4,1,1,Surgery,Prostate
+74,39,6,0,0,Radiation,Prostate
+34,74,27,1,0,Surgery,Colorectal
+62,87,19,1,0,Chemotherapy,Breast
+30,34,28,1,1,Surgery,Prostate
+47,75,19,0,1,Radiation,Lung
+61,78,3,0,0,Radiation,Prostate
+76,67,27,1,1,Chemotherapy,Colorectal
+78,32,5,1,0,Hormone Therapy,Breast
+40,64,6,1,1,Radiation,Prostate
+50,83,17,0,0,Chemotherapy,Prostate
+55,98,4,0,1,Surgery,Colorectal
+54,41,19,0,0,Surgery,Breast
+51,97,29,0,0,Chemotherapy,Breast
+56,26,28,1,0,Chemotherapy,Colorectal
+78,72,2,1,0,Radiation,Lung
+42,24,6,0,0,Surgery,Prostate
+62,72,26,0,0,Chemotherapy,Lung
+63,95,27,1,1,Surgery,Prostate
+70,68,21,0,1,Chemotherapy,Prostate
+64,21,13,0,1,Surgery,Lung
+30,16,6,0,0,Hormone Therapy,Colorectal
+50,26,4,0,0,Radiation,Colorectal
+77,21,28,0,1,Surgery,Prostate
+35,14,21,0,0,Hormone Therapy,Colorectal
+57,69,4,1,0,Surgery,Prostate
+46,26,29,0,0,Surgery,Colorectal
+34,94,22,0,0,Hormone Therapy,Prostate
+60,86,1,1,0,Surgery,Colorectal
+34,54,29,1,1,Surgery,Breast
+67,18,26,1,1,Radiation,Lung
+32,68,20,0,1,Hormone Therapy,Breast
+52,51,21,1,1,Hormone Therapy,Lung
+66,33,5,0,1,Chemotherapy,Lung
+66,80,14,0,0,Surgery,Prostate
+39,40,20,0,0,Radiation,Lung
+39,56,9,1,0,Surgery,Breast
+48,80,22,1,0,Surgery,Breast
+46,11,25,1,1,Chemotherapy,Colorectal
+50,33,23,1,1,Surgery,Breast
+43,15,6,1,1,Radiation,Colorectal
+38,37,4,0,0,Radiation,Lung
+75,10,0,0,1,Chemotherapy,Breast
+30,83,12,0,0,Surgery,Lung
+74,36,20,0,1,Radiation,Breast
+42,55,25,1,1,Surgery,Breast
+33,79,17,1,0,Surgery,Colorectal
+30,62,12,0,0,Surgery,Lung
+78,91,20,1,1,Chemotherapy,Breast
+69,30,20,1,1,Surgery,Prostate
+61,50,17,0,0,Radiation,Lung
+63,33,4,0,1,Surgery,Lung
+57,8,12,1,1,Radiation,Lung
+60,85,3,1,0,Surgery,Colorectal
+37,17,16,0,1,Radiation,Prostate
+68,43,2,0,0,Radiation,Lung
+55,19,16,0,1,Surgery,Breast
+63,33,27,1,0,Surgery,Breast
+32,33,10,0,1,Radiation,Colorectal
+79,79,20,0,0,Hormone Therapy,Breast
+41,36,19,1,1,Chemotherapy,Lung
+30,6,22,1,0,Hormone Therapy,Breast
+73,51,20,1,1,Hormone Therapy,Lung
+34,82,25,1,1,Surgery,Breast
+59,88,29,1,1,Chemotherapy,Prostate
+59,26,3,0,1,Hormone Therapy,Colorectal
+46,79,1,0,1,Surgery,Colorectal
+77,31,19,1,1,Hormone Therapy,Prostate
+76,71,15,1,1,Hormone Therapy,Prostate
+52,85,27,1,1,Surgery,Colorectal
+44,60,17,1,1,Surgery,Prostate
+66,96,7,1,0,Surgery,Lung
+50,97,2,0,0,Chemotherapy,Breast
+43,25,8,0,1,Hormone Therapy,Colorectal
+31,51,28,0,0,Surgery,Prostate
+40,84,19,0,1,Radiation,Lung
+68,63,28,1,1,Hormone Therapy,Colorectal
+67,88,5,0,0,Radiation,Prostate
+63,10,9,1,1,Chemotherapy,Colorectal
+67,23,20,1,1,Surgery,Prostate
+79,61,9,1,0,Radiation,Colorectal
+63,73,12,0,0,Chemotherapy,Lung
+47,7,16,1,1,Surgery,Lung
+59,5,8,0,0,Radiation,Breast
+44,62,16,0,0,Radiation,Colorectal
+56,42,23,1,1,Chemotherapy,Breast
+63,19,8,1,0,Surgery,Colorectal
+67,38,8,1,0,Surgery,Prostate
+62,65,0,0,1,Radiation,Prostate
+53,39,1,1,0,Radiation,Breast
+44,68,27,0,0,Radiation,Colorectal
+59,29,15,1,1,Surgery,Breast
+71,28,28,1,1,Chemotherapy,Lung
+46,16,0,0,1,Chemotherapy,Breast
+34,22,9,0,0,Surgery,Breast
+58,19,17,0,1,Hormone Therapy,Prostate
+33,84,25,0,1,Chemotherapy,Breast
+39,31,27,0,0,Radiation,Colorectal
+46,76,7,0,1,Hormone Therapy,Prostate
+39,64,20,1,1,Hormone Therapy,Breast
+46,50,27,1,1,Chemotherapy,Lung
+49,93,10,0,1,Hormone Therapy,Breast
+53,21,22,1,0,Hormone Therapy,Breast
+34,97,1,0,1,Chemotherapy,Breast
+63,57,7,1,1,Chemotherapy,Prostate
+35,12,26,1,0,Hormone Therapy,Colorectal
+31,83,21,0,1,Radiation,Lung
+42,31,7,0,0,Surgery,Breast
+72,50,16,0,0,Hormone Therapy,Colorectal
+72,54,14,1,0,Hormone Therapy,Colorectal
+77,75,16,0,1,Radiation,Prostate
+40,7,27,1,0,Hormone Therapy,Lung
+76,97,22,0,0,Hormone Therapy,Prostate
+52,68,23,1,0,Surgery,Colorectal
+45,48,12,1,1,Surgery,Colorectal
+60,57,18,0,1,Surgery,Colorectal
+40,28,4,1,1,Chemotherapy,Prostate
+45,64,11,1,1,Chemotherapy,Lung
+37,7,0,0,1,Surgery,Breast
+33,24,22,1,1,Surgery,Prostate
+69,50,4,0,1,Chemotherapy,Colorectal
+33,19,7,0,0,Radiation,Prostate
+54,29,12,0,0,Hormone Therapy,Colorectal
+32,98,7,0,0,Hormone Therapy,Breast
+61,82,24,1,0,Surgery,Breast
+32,75,22,1,1,Radiation,Lung
+56,21,10,1,0,Chemotherapy,Colorectal
+58,88,0,0,0,Surgery,Lung
+61,13,12,1,0,Radiation,Lung
+79,42,18,1,0,Radiation,Breast
+48,52,23,0,1,Radiation,Prostate
+50,64,2,0,1,Chemotherapy,Prostate
+34,67,23,1,1,Chemotherapy,Lung
+47,90,16,0,0,Hormone Therapy,Breast
+57,6,4,0,1,Hormone Therapy,Colorectal
+71,92,19,0,0,Radiation,Prostate
+51,76,20,0,1,Radiation,Lung
+50,15,7,1,1,Chemotherapy,Prostate
+35,68,25,0,1,Hormone Therapy,Prostate
+30,81,13,0,1,Radiation,Colorectal
+34,85,3,0,1,Hormone Therapy,Breast
+70,76,10,0,0,Hormone Therapy,Colorectal
+41,25,19,0,1,Radiation,Breast
+55,22,14,0,0,Chemotherapy,Prostate
+75,98,18,0,0,Radiation,Lung
+63,68,6,0,0,Radiation,Colorectal
+78,86,18,1,0,Hormone Therapy,Breast
+43,99,27,0,0,Radiation,Prostate
+55,42,18,1,1,Chemotherapy,Breast
+74,36,10,0,1,Radiation,Breast
+56,15,25,0,1,Chemotherapy,Breast
+38,49,4,0,1,Chemotherapy,Prostate
+55,93,4,0,0,Hormone Therapy,Lung
+76,37,29,1,1,Surgery,Lung
+51,45,21,0,1,Surgery,Lung
+76,12,7,0,0,Hormone Therapy,Breast
+59,15,9,1,0,Radiation,Prostate
+72,90,5,1,1,Hormone Therapy,Breast
+77,55,14,0,1,Chemotherapy,Lung
+46,92,15,1,0,Surgery,Lung
+55,45,27,1,1,Hormone Therapy,Prostate
+65,21,16,1,1,Radiation,Breast
+30,80,7,0,1,Hormone Therapy,Colorectal
+37,50,7,0,1,Surgery,Colorectal
+78,36,24,0,0,Hormone Therapy,Lung
+64,83,8,1,0,Hormone Therapy,Prostate
+44,84,1,0,0,Surgery,Breast
+76,58,14,1,1,Chemotherapy,Breast
+51,90,17,0,1,Chemotherapy,Lung
+43,96,2,0,1,Surgery,Lung
+55,24,16,1,1,Hormone Therapy,Breast
+57,37,3,0,1,Surgery,Breast
+52,78,29,1,0,Chemotherapy,Lung
+43,44,3,1,1,Radiation,Breast
+53,36,13,0,1,Hormone Therapy,Colorectal
+31,6,8,1,0,Chemotherapy,Lung
+74,37,8,0,1,Hormone Therapy,Breast
+55,81,24,0,0,Surgery,Lung
+43,34,25,1,0,Radiation,Prostate
+36,37,22,0,0,Surgery,Lung
+32,81,29,1,0,Radiation,Lung
+76,30,17,0,0,Hormone Therapy,Prostate
+52,26,9,0,1,Hormone Therapy,Colorectal
+75,70,20,0,0,Surgery,Breast
+72,42,3,0,0,Radiation,Prostate
+76,94,11,0,1,Radiation,Lung
+74,50,26,1,1,Hormone Therapy,Breast
+47,19,7,1,0,Surgery,Prostate
+67,48,1,1,1,Radiation,Breast
+64,53,21,1,1,Hormone Therapy,Breast
+44,79,12,1,0,Chemotherapy,Prostate
+54,65,20,1,0,Surgery,Breast
+66,71,15,0,1,Chemotherapy,Colorectal
+57,10,27,0,0,Surgery,Prostate
+39,13,1,1,0,Hormone Therapy,Colorectal
+68,10,10,1,1,Radiation,Lung
+46,77,9,0,0,Radiation,Breast
+68,99,14,0,0,Radiation,Lung
+51,36,16,0,0,Surgery,Lung
+55,45,7,1,0,Hormone Therapy,Breast
+73,80,17,1,0,Chemotherapy,Prostate
+54,12,22,1,1,Hormone Therapy,Breast
+46,76,8,0,1,Chemotherapy,Lung
+42,54,24,0,0,Surgery,Lung
+49,96,7,1,1,Surgery,Prostate
+54,66,26,1,0,Chemotherapy,Breast
+33,88,13,0,0,Chemotherapy,Lung
+39,66,27,0,0,Chemotherapy,Colorectal
+32,11,25,0,0,Hormone Therapy,Lung
+70,79,24,0,0,Chemotherapy,Lung
+74,88,17,1,1,Surgery,Prostate
+47,84,21,0,1,Surgery,Colorectal
+76,8,19,0,0,Radiation,Lung
+65,10,29,0,1,Chemotherapy,Lung
+76,62,19,1,0,Hormone Therapy,Colorectal
+51,26,20,1,1,Hormone Therapy,Breast
+63,30,11,0,0,Hormone Therapy,Breast
+76,7,18,0,1,Radiation,Lung
+37,45,13,0,0,Surgery,Lung
+69,64,16,1,0,Hormone Therapy,Breast
+78,18,23,1,1,Surgery,Prostate
+73,79,20,1,1,Radiation,Colorectal
+48,86,2,0,0,Chemotherapy,Colorectal
+71,16,25,1,1,Chemotherapy,Prostate
+70,91,29,0,0,Chemotherapy,Prostate
+66,16,22,0,1,Hormone Therapy,Prostate
+35,17,6,0,1,Chemotherapy,Prostate
+55,29,16,1,0,Hormone Therapy,Prostate
+63,49,11,0,1,Radiation,Prostate
+74,23,8,1,1,Radiation,Colorectal
+35,59,14,1,0,Hormone Therapy,Prostate
+66,49,17,0,1,Surgery,Breast
